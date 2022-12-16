@@ -1,4 +1,4 @@
-# pdfconverter
+# PDF Converter
 Very simple python program to convert a PDF to a docx file. Usage:
 
 1. Input the name of the PDF file you want to convert
