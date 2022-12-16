@@ -5,6 +5,6 @@ Very simple python program to convert a PDF to a docx file. Usage:
 2. ...
 3. Profit!
 
-P.s. The <b>pdf2docx</b> library must be installed to run the program. To install from terminal:
+P.s. The <b>pdf2docx</b> library is needed to run the program. To install from terminal:
 
 <code>pip install pdf2docx</code>
